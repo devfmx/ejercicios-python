@@ -11,6 +11,9 @@ my_list = ["MX", "US", "CN", "CA"]
 ### Sólo modificar codigo abajo de esta linea. ###
 ##################################################
 
+my_list.append("GT")
+my_list.append("CO")
+
 ###################################################
 ### Sólo modificar codigo arriba de esta linea. ###
 ###################################################
